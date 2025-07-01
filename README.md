@@ -20,7 +20,13 @@ O relatório desta atividade deve conter:
 + Matemática de RF;
   + Considerando a sensibilidade do ESP32, qual o alcance teórico do sistema no espaço livre? Qual o alcance com vegetação?
   + Usem as fórmulas apresentadas em sala de aula.
+  + Descrevam o canal escolhido;
+  + Lembrando que esta sessão deve ser o foco do trabalho;
 + Proponham como testar cada parte do sistema;
 + Discussão sobre o protótipo apresentado:
   + Quais os próximos passos para implementação do sistema? O que pode ser melhorado?
 + Conclusões;
+
+### Apresentação
+
+Este trabalho deve contar com uma apresentação no último dia de aula, a apresentação deve conter um teste do protótipo de vocês e slides para ajudar a apresentar o conteúdo do relatório.
